@@ -14,7 +14,7 @@
 </p>
 
 ---
-<img src="https://github.com/user-attachments/assets/0f002d46-49a0-4546-ab95-e5183fc0028c" width="100%">
+<img src="https://github.com/user-attachments/assets/f67495a4-c010-46c3-b61c-250e60b1c7a6" width="100%">
 
 ---
 
