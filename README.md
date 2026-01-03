@@ -53,7 +53,7 @@
 ## 🛠 기술 스택
 
 ### 프레임워크 & 라이브러리
-* * **UI Framework**: `UIKit`
+* **UI Framework**: `UIKit`
 * **Calendar UI**: `FSCalendar`
 * **Database**: `Firebase Firestore`
 * **Authentication**: `Firebase Auth`
